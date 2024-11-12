@@ -9,3 +9,5 @@ This project is a Password Generator Website that allows users to create strong,
 <b>useCallback</b> : Used for memoizing functions that handle password generation and updates, minimizing re-renders.<br>
 <b>useState</b> : Manages various state variables, including password length, character type selections, and the generated password.<br>
 <b>useEffect</b> : Executes side effects, like recalculating password strength or updating password output when settings change.<br>
+<br> <br>
+This project provides a practical and visually engaging password generator tool, applying modern front-end development practices and tools. With React and Tailwind CSS, it delivers an optimized, user-friendly experience, encouraging users to adopt stronger password habits.
